@@ -11,4 +11,5 @@
 !********************************************************************** 
 
 ! References:
+
 ! [1] Kamarei, F., Kumar, A., Lopez-Pamies, O. 2024. The poker-chip experiments of synthetic elastomers. https://arxiv.org/pdf/2402.06785.pdf
