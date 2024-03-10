@@ -12,6 +12,8 @@
 
 For any inquiry, please contact me at kamarei2@illinois.edu
 
+Alternatively, you may also reach out to my colleague at aditya.kumar@ce.gatech.edu or my Ph.D. advisor at pamies@illinois.edu
+
 !********************************************************************** 
 
 ! References:
