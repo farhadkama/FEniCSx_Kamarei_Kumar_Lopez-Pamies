@@ -18,7 +18,7 @@ Alternatively, you may also reach out to my colleague at aditya.kumar@ce.gatech.
 
 ! References:
 
-! [1] Kamarei, F., Kumar, A., Lopez-Pamies, O. 2024. The poker-chip experiments of synthetic elastomers. https://arxiv.org/pdf/2402.06785.pdf
+! [1] Kamarei, F., Kumar, A., Lopez-Pamies, O. 2024. The poker-chip experiments of synthetic elastomers explained. Journal of the Mechanics and Physics of Solids 188, 105683. http://pamies.cee.illinois.edu/Publications_files/JMPS2004b.pdf
 
 ! [2] Leonard, M., Wang, N., Lopez-Pamies, O., Nakamura, T. 2020. The nonlinear elastic response of filled elastomers: Experiments vs. theory for the basic case of particulate fillers of micrometer size. Journal of the Mechanics and Physics of Solids 135, 103781. http://pamies.cee.illinois.edu/Publications_files/JMPS2020a.pdf
 
