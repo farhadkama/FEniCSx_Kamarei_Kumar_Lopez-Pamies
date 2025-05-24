@@ -35,7 +35,7 @@ This code takes the following **five material properties** as inputs:
 4. `sts` = Tensile strength  
 5. `scs` = Compressive strength  
 
-Additionally, the user must specify the **regularization length** `eps` for the boundary value problems. Typically, this length should be chosen so that it is smaller than the smallest size of the structure, as well as the material characteristic length scale (3Gc)/(16 Wts).
+Additionally, the user must specify the **regularization length** `eps` for the boundary value problems. Typically, this length should be chosen so that it is smaller than the smallest size of the structure, as well as the material characteristic length scale $$(3G_c)/(16 W_{ts})$$.
 
 ##  Contact
 
