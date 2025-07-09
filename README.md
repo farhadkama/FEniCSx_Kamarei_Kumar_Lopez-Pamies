@@ -1,4 +1,4 @@
-# FEniCSx_Kamarei_Kumar_Lopez-Pamies
+# Learning Phase-Field Fracture Modeling: A Collection of Instructional Examples
 
 This repository contains FEniCSx example codes for solving boundary value problems with the phase-field model of Griffith fracture with material strength put forth in [1].
 
