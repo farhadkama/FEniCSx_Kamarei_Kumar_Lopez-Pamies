@@ -10,6 +10,7 @@ The following examples are included:
 - **Indentation test** [5]  
 - **Brazilian test** [6]  
 - **Poker-chip test** [2]  
+- **Compact tension shear test** [7] 
 
 These examples illustrate the capability of the model to describe the nucleation and propagation of fracture in nominally elastic brittle materials at large under arbitrary monotonic quasistatic boundary conditions.
 
@@ -48,12 +49,14 @@ Alternatively, you may also reach out to my colleague at [aditya.kumar@ce.gatech
 
 [1] Kumar, A., Francfort, G.A., Lopez-Pamies, O. (2018). *Fracture and healing of elastomers: A phase-transition theory and numerical implementation*. Journal of the Mechanics and Physics of Solids, 112, 523–551. [PDF](http://pamies.cee.illinois.edu/Publications_files/JMPS2018.pdf)
 
-[2] Kamarei, F., Kumar, A., Lopez-Pamies, O. (2024). *The poker-chip experiments of synthetic elastomers explained*. Journal of the Mechanics and Physics of Solids, 188, 105683. [PDF](http://pamies.cee.illinois.edu/Publications_files/JMPS2004b.pdf)
+[2] Kamarei, F., Kumar, A., Lopez-Pamies, O. (2024). *The poker-chip experiments of synthetic elastomers explained*. Journal of the Mechanics and Physics of Solids, 188, 105683. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2004b.pdf)
 
-[3] Leonard, M., Wang, N., Lopez-Pamies, O., Nakamura, T. (2020). *The nonlinear elastic response of filled elastomers: Experiments vs. theory for the basic case of particulate fillers of micrometer size*. Journal of the Mechanics and Physics of Solids, 135, 103781. [PDF](http://pamies.cee.illinois.edu/Publications_files/JMPS2020a.pdf)
+[3] Leonard, M., Wang, N., Lopez-Pamies, O., Nakamura, T. (2020). *The nonlinear elastic response of filled elastomers: Experiments vs. theory for the basic case of particulate fillers of micrometer size*. Journal of the Mechanics and Physics of Solids, 135, 103781. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2020a.pdf)
 
-[4] Kumar, A., Bourdin, B., Francfort, G.A., Lopez-Pamies, O. (2020). *Revisiting nucleation in the phase-field approach to brittle fracture*. Journal of the Mechanics and Physics of Solids, 142, 104027. [PDF](http://pamies.cee.illinois.edu/Publications_files/JMPS2020b.pdf)
+[4] Kumar, A., Bourdin, B., Francfort, G.A., Lopez-Pamies, O. (2020). *Revisiting nucleation in the phase-field approach to brittle fracture*. Journal of the Mechanics and Physics of Solids, 142, 104027. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2020b.pdf)
 
-[5] Kumar, A., Ravi-Chandar, K., Lopez-Pamies, O. (2022). *The revisited phase-field approach to brittle fracture: Application to indentation and notch problems*. International Journal of Fracture, 237, 83–100. [PDF](http://pamies.cee.illinois.edu/Publications_files/FRAC_2022.pdf)
+[5] Kumar, A., Ravi-Chandar, K., Lopez-Pamies, O. (2022). *The revisited phase-field approach to brittle fracture: Application to indentation and notch problems*. International Journal of Fracture, 237, 83–100. [PDF](http://pamies.cee.illinois.edu/assets/pdf/FRAC_2022.pdf)
 
-[6] Kumar, A., Liu, Y., Dolbow, J.E., Lopez-Pamies, O. (2024). *The strength of the Brazilian fracture test*. Journal of the Mechanics and Physics of Solids, 182, 105473. [PDF](http://pamies.cee.illinois.edu/Publications_files/JMPS2024.pdf)
+[6] Kumar, A., Liu, Y., Dolbow, J.E., Lopez-Pamies, O. (2024). *The strength of the Brazilian fracture test*. Journal of the Mechanics and Physics of Solids, 182, 105473. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2024.pdf)
+
+[7] Lopez-Pamies, O., Kamarei, F. (2025). *When and where do large cracks grow? Griffith energy competition constrained by material strength*. Extreme Mechanics Letters, 81, 102417. [PDF](http://pamies.cee.illinois.edu/assets/pdf/EML2025.pdf)
