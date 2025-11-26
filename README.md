@@ -47,9 +47,9 @@ Alternatively, you may also reach out to my colleague at [aditya.kumar@ce.gatech
 
 ##  References
 
-[1] Kumar, A., Francfort, G.A., Lopez-Pamies, O. (2018). *Fracture and healing of elastomers: A phase-transition theory and numerical implementation*. Journal of the Mechanics and Physics of Solids, 112, 523–551. [PDF](http://pamies.cee.illinois.edu/Publications_files/JMPS2018.pdf)
+[1] Kumar, A., Francfort, G.A., Lopez-Pamies, O. (2018). *Fracture and healing of elastomers: A phase-transition theory and numerical implementation*. Journal of the Mechanics and Physics of Solids, 112, 523–551. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2018.pdf)
 
-[2] Kamarei, F., Kumar, A., Lopez-Pamies, O. (2024). *The poker-chip experiments of synthetic elastomers explained*. Journal of the Mechanics and Physics of Solids, 188, 105683. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2004b.pdf)
+[2] Kamarei, F., Kumar, A., Lopez-Pamies, O. (2024). *The poker-chip experiments of synthetic elastomers explained*. Journal of the Mechanics and Physics of Solids, 188, 105683. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2024b.pdf)
 
 [3] Leonard, M., Wang, N., Lopez-Pamies, O., Nakamura, T. (2020). *The nonlinear elastic response of filled elastomers: Experiments vs. theory for the basic case of particulate fillers of micrometer size*. Journal of the Mechanics and Physics of Solids, 135, 103781. [PDF](http://pamies.cee.illinois.edu/assets/pdf/JMPS2020a.pdf)
 
