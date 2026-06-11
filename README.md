@@ -1,4 +1,5 @@
 # Learning Phase-Field Fracture Modeling: A Collection of Instructional Examples
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20650089.svg)](https://doi.org/10.5281/zenodo.20650089)
 
 This repository contains FEniCSx example codes to solve boundary value problems for elastic brittle materials with the phase-field model introduced in [1] and the explicit constitutive prescription for the driving force that accounts for the strength of the material introduced in [2].
 
